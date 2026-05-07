@@ -1,5 +1,7 @@
 # MaDeLaNe 2026 — S1-M1 Connectivity Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maierav/madelane26/blob/main/MaDeLaNe26_S1M1_Rasters.ipynb)
+
 Colab notebook for exploring intracortical microstimulation (ICMS) data from
 [Shelchkova et al. (2023) *Nature Communications*](https://doi.org/10.1038/s41467-023-43140-2).
 
